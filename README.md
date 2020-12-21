@@ -26,7 +26,7 @@ Links :
 Discord: https://discord.gg/JqdaNk6tWA
 Twitter: https://twitter.com/wikiyeet
 İnstagram: https://www.instagram.com/wikiyeet/
-Dcs.bio : dsc.bio/gothboliqu
+
 
 
 
