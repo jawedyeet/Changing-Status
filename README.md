@@ -1,5 +1,7 @@
 # Changing-Status
-Discord Changing Status On BetterDiscord Library
+
+Tamamen Türkçe Discord Değişen Durum Bölümü.
+
 
 Öncelikle discord sunucumuza gelerek detaylı yardım alabilirsiniz.
 
